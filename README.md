@@ -1,4 +1,5 @@
 # Telematics Driver Risk Dashboard
+![Telematics Cover](telematics_cover.jpg.jpg)
 
 **Tools:** Python · Scikit-learn · Power BI  
 
@@ -30,7 +31,7 @@ predict claim likelihood using machine learning.
 - 39% of drivers flagged as high risk
 
 ## Dashboard
-![Dashboard](telematics_dashboard.png)
+![Dashboard](telematics_dashboard.PNG)
 
 ## Tools Used
 - Python (Pandas, Scikit-learn, Matplotlib)
