@@ -23,12 +23,34 @@ predict claim likelihood using machine learning.
 | Low Risk Drivers | 402 (40%) |
 | Model Accuracy | 83% |
 | Average Risk Score | 0.8 |
-
 ## Key Findings
-- High risk drivers average 67mph vs 52mph for low risk
-- Drivers aged 56-70 have highest claim rate and phone use
-- Harsh braking and phone use are strongest claim predictors
-- 39% of drivers flagged as high risk
+
+### 1. High Risk Drivers Speed More
+High risk drivers average 67mph vs 52mph for low risk drivers.
+
+![Speed by Claim](speed_by claim.png)
+
+---
+
+### 2. Older Drivers Have Highest Claim Rate
+Drivers aged 56-70 have the highest claim rate across all risk categories.
+
+![Claims by Age](claims_by_age.png)
+
+---
+
+### 3. Harsh Braking Predicts Claims
+Drivers who brake harshly are significantly more likely to make a claim.
+
+![Braking by Claim](braking_by_claim.png)
+
+---
+
+### 4. Phone Use Increases Risk
+Higher phone use while driving strongly correlates with claim likelihood.
+
+![Phone by Claim](phone_by_claim.png)
+
 
 ## Dashboard
 ![Dashboard](telematics_dashboard.PNG)
